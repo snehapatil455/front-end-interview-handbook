@@ -8,9 +8,9 @@
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[A Glimpse into the Front End Interview Process]]></title>
-            <link>https://frontendinterviewhandbook.com/blog/a-glimpse-into-the-front-end-interview-process</link>
-            <guid>a-glimpse-into-the-front-end-interview-process</guid>
+            <title><![CDATA[A Glimpse into Front End Interviews]]></title>
+            <link>https://frontendinterviewhandbook.com/blog/a-glimpse-into-front-end-interviews</link>
+            <guid>a-glimpse-into-front-end-interviews</guid>
             <pubDate>Mon, 30 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[A glimpse into the front end interview process and questions that frequently come up.]]></description>
         </item>
