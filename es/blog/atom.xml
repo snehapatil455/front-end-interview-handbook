@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://frontendinterviewhandbook.com/es/blog</id>
+    <title>Front End Interview Handbook Blog</title>
+    <updated>2021-08-30T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://frontendinterviewhandbook.com/es/blog"/>
+    <subtitle>Front End Interview Handbook Blog</subtitle>
+    <icon>https://frontendinterviewhandbook.com/es/img/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[A Glimpse into Front End Interviews]]></title>
+        <id>a-glimpse-into-front-end-interviews</id>
+        <link href="https://frontendinterviewhandbook.com/es/blog/a-glimpse-into-front-end-interviews"/>
+        <updated>2021-08-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A glimpse into the front end interview process and questions that frequently come up.]]></summary>
+        <author>
+            <name>Kai Li</name>
+            <uri>https://github.com/li-kai</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Front End Career Questions]]></title>
+        <id>front-end-career-questions</id>
+        <link href="https://frontendinterviewhandbook.com/es/blog/front-end-career-questions"/>
+        <updated>2021-08-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Recently a junior front end engineer at a startup in Singapore reached out to me to ask me how front end development as a career.]]></summary>
+        <author>
+            <name>Yangshun Tay</name>
+            <uri>https://github.com/yangshun</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are Front End Development Skills Enough for a Career?]]></title>
+        <id>are-front-end-development-skills-enough-for-a-career</id>
+        <link href="https://frontendinterviewhandbook.com/es/blog/are-front-end-development-skills-enough-for-a-career"/>
+        <updated>2019-11-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Recently, an undergrad freshmen I met at an event asked me a question regarding Front End development as a career.]]></summary>
+        <author>
+            <name>Yangshun Tay</name>
+            <uri>https://github.com/yangshun</uri>
+        </author>
+    </entry>
+</feed>
